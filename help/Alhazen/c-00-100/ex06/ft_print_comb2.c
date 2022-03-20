@@ -50,3 +50,8 @@ void	ft_print_comb2(void)
 		f++;
 	}
 }
+int main()
+{
+	ft_print_comb2();
+	return 0;
+}
